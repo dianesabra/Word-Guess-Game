@@ -1,0 +1,10 @@
+body{
+    background-image: url("../images/background.jpg");
+    font-family: 'Bangers', cursive;
+    margin: auto;
+    width: 100%;
+}
+
+.row{
+    margin: 10px;
+}
