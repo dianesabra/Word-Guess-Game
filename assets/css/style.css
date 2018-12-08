@@ -1,10 +1,18 @@
 body{
     background-image: url("../images/background.jpg");
-    font-family: 'Bangers', cursive;
     margin: auto;
+    font-family: 'Bungee', cursive;
     width: 100%;
 }
 
 .row{
     margin: 10px;
+}
+
+.card-title{
+    font-family: 'Bungee', cursive;
+}
+
+.hangman-Title{
+    font-size: 40px;
 }
